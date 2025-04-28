@@ -1,6 +1,6 @@
 # 🏛️ NinjaDevs - FATEC
 
-Bem-vindo(a) à nossa organização oficial no GitHub! Aqui reunimos os projetos desenvolvidos por alunos e alunas em atividades acadêmicas, TCCs e iniciativas de aprendizado colaborativo. 📚
+Bem vindo ao perfil da organização do grupo NinjaDevs! Aqui será encontrado tudo desenvolvido nas APIs (Aprendizagem por Projetos Integrados) da FATEC prof. Jessen Vidal. 
 
 ---
 
