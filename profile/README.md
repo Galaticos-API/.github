@@ -14,14 +14,6 @@ Bem vindo ao perfil da organização do grupo NinjaDevs! Aqui será encontrado t
 
 ## 👥 Membros da equipe
 
-| Função         | Nome                          | GitHub                                            |
-|----------------|-------------------------------|---------------------------------------------------|
-| Scrum Master   | Giovanni Moretto              | 🔗 [Perfil](https://github.com/SEU_USUARIO_AQUI)  |
-| Product Owner  | Emmanuel Garakis                 | 🔗 [Perfil](https://github.com/Darkghostly)       |
-| Dev Team       | Rafael Matesco                | 🔗 [Perfil](https://github.com/RafaMatesco)       |
-| Dev Team       | Gustavo Monteiro Greco        | 🔗 [Perfil](https://github.com/GustavoMGreco)     |
-| Dev Team       | Gabriel dos Santos Lasaro     | 🔗 [Perfil](https://github.com/SEU_USUARIO_AQUI)  |
-| Dev Team       | Alice Azambuja                | 🔗 [Perfil](https://github.com/AlicePenrose)      |
 
 |       Nome       |     Função     |                                                                            GitHub                                                                             |                                                                                               Linkedin                                                                                               |
 | :--------------: | :------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
