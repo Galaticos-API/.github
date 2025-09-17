@@ -10,6 +10,7 @@ Aqui você encontrará todos os projetos que desenvolvemos nas APIs (Aprendizage
 | Projeto | Descrição |
 |--------|-----------|
 | [API-1](https://github.com/Galaticos-API/API-1) | Sistema web para gestão de atestados médicos e avalição de membros de equipes ágeis |
+| [API-2](https://github.com/Galaticos-API/API-2) | Desenvolvimento de um sistema de PDI para a equipe de uma empresa |
 
 ---
 
