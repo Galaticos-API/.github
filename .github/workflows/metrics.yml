@@ -1,0 +1,20 @@
+name: Metrics
+on:
+  # Executa automaticamente uma vez por dia
+  schedule: [{cron: "0 0 * * *"}]
+  # Permite que você acione o script manualmente na aba Actions
+  workflow_dispatch: 
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          # O parâmetro user deve ser preenchido com o nome da organização
+          user: Galaticos-API
+          template: classic
+          base: header, activity, community, repositories
+          # Habilita o plugin para mostrar as linguagens utilizadas
+          plugin_languages: yes
