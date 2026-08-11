@@ -15,7 +15,7 @@ Somos uma equipe de estudantes do curso de Análise e Desenvolvimento de Sistema
 
 <!-- Nota: Certifique-se de configurar o lowlighter/metrics via GitHub Actions no repositório .github para que o arquivo github-metrics.svg seja gerado na raiz -->
 <div align="center">
-  <img src="github-metrics.svg" alt="Estatísticas da Organização Galáticos" />
+  <img src="../github-metrics.svg" alt="Estatísticas da Organização Galáticos" />
 </div>
 
 ---
