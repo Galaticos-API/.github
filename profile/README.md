@@ -30,7 +30,7 @@ Nossos repositórios refletem a evolução técnica da equipe ao longo dos semes
 | **[API-2](https://github.com/Galaticos-API/API-2)** | Sistema de Plano de Desenvolvimento Individual (PDI) para otimizar o controle e gerenciamento por equipes de RH. | [Acessar ↗](https://github.com/Galaticos-API/API-2) |
 | **[API-3](https://github.com/Galaticos-API/API-3)** | Plataforma de inteligência de crédito estruturada com análise de dados públicos do Banco Central do Brasil. | [Acessar ↗](https://github.com/Galaticos-API/API-3) |
 | **[API-4](https://github.com/Galaticos-API/API-4)** | Solução desenvolvida como Projeto Integrador focado nas demandas e tecnologias do 4º semestre. | [Acessar ↗](https://github.com/Galaticos-API/API-4) |
-| **[ES-III](https://github.com/Galaticos-API/ES-III)** | Plataforma web de previsão do tempo (WeatherApp) desenvolvida para a disciplina de Engenharia de Software III. | [Acessar ↗](https://github.com/Galaticos-API/ES-III) |
+| **[ES-III](https://github.com/Galaticos-API/ES-III)** | Agente autônomo que classifica alertas de segurança, correlaciona evidências e propõe ações de contenção. | [Acessar ↗](https://github.com/Galaticos-API/ES-III) |
 
 ---
 
